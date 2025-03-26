@@ -16,3 +16,4 @@ Handle Simple Alert
     Log To Console    Alert message is: ${alert_text}
 
     Close Browser
+# this is abubakar text
